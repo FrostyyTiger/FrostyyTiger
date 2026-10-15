@@ -1,4 +1,4 @@
-# Marcell Bierbauer-Szigeti
+# Marcel Bierbauer-Szigeti
 
 Co-founder and CTO of Navigo Intelligence, a small self-funded software company near Zurich. Our construction-site product has had its first customer live in production since September 2026, and our tax-return workflow for Swiss fiduciary firms is at demo stage.
 

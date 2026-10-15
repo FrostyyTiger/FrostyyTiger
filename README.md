@@ -15,7 +15,7 @@ Coding agents write the code. I decide what gets built, write the specs and acce
 
 ## Besides software
 
-I studied physics at The Open University (UK): BSc (Honours), all modules completed, degree conferral pending. At ARIS (Swiss Academic Space Initiative) I was the primary designer of a battery-pack PCB that flew on the HERMES launch. Long term I want to build software for aerospace and autonomy.
+I studied physics at The Open University (UK), BSc (Honours). At ARIS (Swiss Academic Space Initiative) I was the primary designer of a battery-pack PCB that flew on the HERMES launch. Long term I want to build software for aerospace and autonomy.
 
 I grew up in seven countries, two years of it on a sailboat in the Caribbean.
 

@@ -21,4 +21,4 @@ I grew up in seven countries, two years of it on a sailboat in the Caribbean.
 
 ## Contact
 
-Next I want to join a small AI-native team, as a product or forward-deployed engineer. marcellbierbauer@gmail.com · [LinkedIn](https://www.linkedin.com/in/marcel-bierbauer-szigeti-0665001ba).
+Open to talking with AI-native startups about product and forward-deployed work. marcellbierbauer@gmail.com · [LinkedIn](https://www.linkedin.com/in/marcel-bierbauer-szigeti-0665001ba).
